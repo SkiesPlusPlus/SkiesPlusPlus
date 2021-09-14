@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skiesplusplus&label=Profile%20views&color=0e75b6&style=flat" alt="skiesplusplus" /> </p>
 
 - 🔭 I’m currently working on **Stellar Client!**
-
 - 🌱 I’m currently learning **C#**
 
 
