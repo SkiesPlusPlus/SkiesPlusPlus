@@ -15,5 +15,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skiesplusplus&" alt="skiesplusplus" /></p>
 
-<p><img align="center" src="![image](https://user-images.githubusercontent.com/78136681/133253504-a1e92b6c-6a54-4dd4-843a-93a1ea3b1b5c.png") /></p>
+![image](https://user-images.githubusercontent.com/78136681/133253504-a1e92b6c-6a54-4dd4-843a-93a1ea3b1b5c.png"
 
